@@ -2,7 +2,7 @@
 <!--suppress ALL -->
 <LanguageData>
 	
-	<Paralyze.label>paralyser</Paralyze.label>
-	<Paralyze.deathMessage>{0} Mort de dégâts nerveux.</Paralyze.deathMessage>	
+	<Paralyze.label>Paralysé</Paralyze.label>
+	<Paralyze.deathMessage>{0} est mort d'une lésion nerveuse.</Paralyze.deathMessage>	
 	
 </LanguageData>
