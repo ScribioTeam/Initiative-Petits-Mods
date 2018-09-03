@@ -2,16 +2,16 @@
 <!--suppress ALL -->
 <LanguageData>
 
-	<PlasmaCutter.label>plasma cutter</PlasmaCutter.label>
-	<FrontLeftMechanicalLeg.label>front left leg</FrontLeftMechanicalLeg.label>
-	<FrontRightMechanicalLeg.label>front right leg</FrontRightMechanicalLeg.label>
-	<FrontParalyzeComponent.label>paralytic component</FrontParalyzeComponent.label>
-	<WheelsEnclosure.label>wheels enclosure</WheelsEnclosure.label>
-	<MechanicalCoreSkullywag.label>core</MechanicalCoreSkullywag.label>
-	<MechanicalCoreScoutbot.label>core</MechanicalCoreScoutbot.label>
-	<CoveredByShield.label>shield</CoveredByShield.label>
-	<MeleeTentacles.label>tentacle</MeleeTentacles.label>
-	<Igniter.label>igniter</Igniter.label>
-	<FuelContainer.label>fuel container</FuelContainer.label>
+	<PlasmaCutter.label>découpeur plasma</PlasmaCutter.label>
+	<FrontLeftMechanicalLeg.label>jambe gauche avant</FrontLeftMechanicalLeg.label>
+	<FrontRightMechanicalLeg.label>jambe droite avant</FrontRightMechanicalLeg.label>
+	<FrontParalyzeComponent.label>composant paralytique</FrontParalyzeComponent.label>
+	<WheelsEnclosure.label>Clôture de roue</WheelsEnclosure.label>
+	<MechanicalCoreSkullywag.label>coeur</MechanicalCoreSkullywag.label>
+	<MechanicalCoreScoutbot.label>coeur</MechanicalCoreScoutbot.label>
+	<CoveredByShield.label>bouclier</CoveredByShield.label>
+	<MeleeTentacles.label>tentacule</MeleeTentacles.label>
+	<Igniter.label>allumeur</Igniter.label>
+	<FuelContainer.label>réservoir d'essence</FuelContainer.label>
 
 </LanguageData>
