@@ -3,6 +3,6 @@
 <LanguageData>
 	
 	<Paralyze.label>Paralysé</Paralyze.label>
-	<Paralyze.deathMessage>{0} est mort d'une lésion nerveuse.</Paralyze.deathMessage>	
+	<Paralyze.deathMessage>{0} est mort suite à une lésion nerveuse.</Paralyze.deathMessage>	
 	
 </LanguageData>
