@@ -2,14 +2,14 @@
 <!--suppress ALL -->
 <LanguageData>
 	
-	<MechanicalCrawler.label>crawler</MechanicalCrawler.label>
-	<MechanicalSkullywag.label>skullywag</MechanicalSkullywag.label>
-	<AssimilatedHuman.label>human</AssimilatedHuman.label>
-	<MechanicalScoutbot.label>scoutbot</MechanicalScoutbot.label>
-	<MechanicalAssaulter.label>assaulter</MechanicalAssaulter.label>
-	<MechanicalCarrier.label>carrier</MechanicalCarrier.label>
-	<MechanicalMammoth.label>mammoth</MechanicalMammoth.label>
-	<MechanicalFlamebot.label>flamebot</MechanicalFlamebot.label>
-	<MechanicalBoombot.label>boombot</MechanicalBoombot.label>
+	<MechanicalCrawler.label>Fayot</MechanicalCrawler.label>
+	<MechanicalSkullywag.label>Skullywag</MechanicalSkullywag.label>
+	<AssimilatedHuman.label>Humain</AssimilatedHuman.label>
+	<MechanicalScoutbot.label>Robot éclaireur</MechanicalScoutbot.label>
+	<MechanicalAssaulter.label>Robot d'assaut</MechanicalAssaulter.label>
+	<MechanicalCarrier.label>Porteur</MechanicalCarrier.label>
+	<MechanicalMammoth.label>Mammouth</MechanicalMammoth.label>
+	<MechanicalFlamebot.label>Robot lance-flamme</MechanicalFlamebot.label>
+	<MechanicalBoombot.label>Robot explosif</MechanicalBoombot.label>
 
 </LanguageData>

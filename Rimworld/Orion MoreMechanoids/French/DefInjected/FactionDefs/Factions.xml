@@ -2,10 +2,10 @@
 <!--suppress ALL -->
 <LanguageData>
 	
-	<Mechanoid.label>mechanoid hive</Mechanoid.label>
-	<Mechanoid.description>A hive of ancient self-replicating machines.</Mechanoid.description>
+	<Mechanoid.label>ruche de mechanoid</Mechanoid.label>
+	<Mechanoid.description>une ruche d'ancienne machine auto-reproductrice.</Mechanoid.description>
 	<Mechanoid.pawnsPlural>mechanoids</Mechanoid.pawnsPlural>
-	<Mechanoid.fixedName>a mechanoid hive</Mechanoid.fixedName>
-	<Mechanoid.leaderTitle>controller</Mechanoid.leaderTitle>
+	<Mechanoid.fixedName>une ruche de mechanoid</Mechanoid.fixedName>
+	<Mechanoid.leaderTitle>contrôleur</Mechanoid.leaderTitle>
 
 </LanguageData>
