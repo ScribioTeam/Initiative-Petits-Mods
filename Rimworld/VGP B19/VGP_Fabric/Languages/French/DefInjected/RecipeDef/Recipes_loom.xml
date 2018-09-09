@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeCloth.label>weave twenty cloths</MakeCloth.label>
-  <MakeCloth.description>weave cloth from raw cotton. \n\nMakes 20 cloth.</MakeCloth.description>
-  <MakeCloth.jobString>weaving fabric.</MakeCloth.jobString>
+  <MakeCloth.label>tisser vingt tissus</MakeCloth.label>
+  <MakeCloth.description>Tisser depuis du coton brut \n\nDonne 20 tissus.</MakeCloth.description>
+  <MakeCloth.jobString>Tissage en cours</MakeCloth.jobString>
 
-  <MakeLinen.label>weave ten linen cloths</MakeLinen.label>
-  <MakeLinen.description>weave linen cloth from raw flax. \n\nMakes 10 cloth.</MakeLinen.description>
-  <MakeLinen.jobString>weaving linen cloth.</MakeLinen.jobString>
+  <MakeLinen.label>tisser dix tissus de lin</MakeLinen.label>
+  <MakeLinen.description>tisser des tissus de lin à partir de lin brut. \n\nDonne 10 tissus.</MakeLinen.description>
+  <MakeLinen.jobString>Tissage de tissu de lin</MakeLinen.jobString>
 
-  <MakeHempCloth.label>weave ten hemp cloths</MakeHempCloth.label>
-  <MakeHempCloth.description>Turn smokeleaf leaves into a hemp cloth.</MakeHempCloth.description>
-  <MakeHempCloth.jobString>weaving hemp cloth.</MakeHempCloth.jobString>
+  <MakeHempCloth.label>tisser dix tissus de chanvre</MakeHempCloth.label>
+  <MakeHempCloth.description>Transformez les feuilles de smokeleaf en tissu de chanvre.</MakeHempCloth.description>
+  <MakeHempCloth.jobString>Tissage de tissu de chanvre</MakeHempCloth.jobString>
 
-  <MakePlasteelThread.label>craft twenty-five plasteel threads</MakePlasteelThread.label>
-  <MakePlasteelThread.description>Spin plasteel thread from plasteel metal. Used in advanced cloth weaving. \n\n Makes 25 Threads.</MakePlasteelThread.description>
-  <MakePlasteelThread.jobString>Spining plasteel thread.</MakePlasteelThread.jobString>
+  <MakePlasteelThread.label>fabrication artisanale de vingt-cinq fils de plastacier</MakePlasteelThread.label>
+  <MakePlasteelThread.description>Faire tourner le fil de plastacier à partir de métal plastacier. Utilisé dans le tissage avancé des tissus. \n\n Donne 25 fils.</MakePlasteelThread.description>
+  <MakePlasteelThread.jobString>Filage de plastacier</MakePlasteelThread.jobString>
 
-  <MakeSynthreadCloth.label>weave ten synthread cloth</MakeSynthreadCloth.label>
-  <MakeSynthreadCloth.description>weave synthread cloth from raw cotton, raw flax, and plasteel thread. \n\nMakes 10 cloth.</MakeSynthreadCloth.description>
-  <MakeSynthreadCloth.jobString>weaving synthread cloth.</MakeSynthreadCloth.jobString>
+  <MakeSynthreadCloth.label>tisser dix tissus de synthèse</MakeSynthreadCloth.label>
+  <MakeSynthreadCloth.description>tisser des tissus de synthèse à partir de coton brut, de lin brut et de fil de plastacier. \n\nDonne 10 tissus.</MakeSynthreadCloth.description>
+  <MakeSynthreadCloth.jobString>Tissage de tissu de synthèse</MakeSynthreadCloth.jobString>
 
-  <MakeDevilstrand.label>weave twelve devilstrand cloths</MakeDevilstrand.label>
-  <MakeDevilstrand.description>weave devilstrand cloth from raw devilstrand. \n\nMakes 12 cloth.</MakeDevilstrand.description>
-  <MakeDevilstrand.jobString>weaving devilstrand cloth.</MakeDevilstrand.jobString>
+  <MakeDevilstrand.label>tisser douze tissus de devilstrand</MakeDevilstrand.label>
+  <MakeDevilstrand.description>tisser du tissu de devilstrand à partir de devilstrand brut. \n\nDonne 12 tissus.</MakeDevilstrand.description>
+  <MakeDevilstrand.jobString>Tissage de tissu de devilstrand</MakeDevilstrand.jobString>
 
-  <MakeHyperweaveCloth.label>weave fifteen hyperweave cloths</MakeHyperweaveCloth.label>
-  <MakeHyperweaveCloth.description>weave hyperweave cloth from mixing raw cotton, raw flax, raw devilstrand, and plasteel thread. \n\nMakes 15 cloths.</MakeHyperweaveCloth.description>
-  <MakeHyperweaveCloth.jobString>weaving hyperweave cloth.</MakeHyperweaveCloth.jobString>
+  <MakeHyperweaveCloth.label>tisser quinze tissus hyper-tissés</MakeHyperweaveCloth.label>
+  <MakeHyperweaveCloth.description>tisser un tissu hyper-tissé en mélangeant du coton brut, du lin brut, du devilstrand brut et du fil de plastacier. \n\nDonne 15 tissus.</MakeHyperweaveCloth.description>
+  <MakeHyperweaveCloth.jobString>Tissage de tissu hyper-tissé</MakeHyperweaveCloth.jobString>
 
-  <Makeblendedwool.label>craft twenty blended wool</Makeblendedwool.label>
-  <Makeblendedwool.description>Blend wools from other blends of wool. \n\nMakes 20 wool.</Makeblendedwool.description>
-  <Makeblendedwool.jobString>Blending wool.</Makeblendedwool.jobString>
+  <Makeblendedwool.label>fabrication artisanale de vingt laine mélangée</Makeblendedwool.label>
+  <Makeblendedwool.description>Mélanger des laines d'autres mélanges de laine. \n\nDonne 20 laines.</Makeblendedwool.description>
+  <Makeblendedwool.jobString>Mélange des laines.</Makeblendedwool.jobString>
 
-  <Makeblendedcloth.label>weave twenty-five cloth from other fabric</Makeblendedcloth.label>
-  <Makeblendedcloth.description>Blend different fabrics into a simple cloth. \n\nMakes 25 cloth.</Makeblendedcloth.description>
-  <Makeblendedcloth.jobString>weaving cloth.</Makeblendedcloth.jobString>
+  <Makeblendedcloth.label>tisser vingt-cinq tissus à partir d'autres tissus</Makeblendedcloth.label>
+  <Makeblendedcloth.description>Mélangez différents tissus en un simple tissu.\n\nDonne 25 tissus.</Makeblendedcloth.description>
+  <Makeblendedcloth.jobString>Tissage en cours</Makeblendedcloth.jobString>
 
-  <SalvageApparel.label>salvage apparel</SalvageApparel.label>
-  <SalvageApparel.description>Salvage unwanted apparel into raw materials.</SalvageApparel.description>
-  <SalvageApparel.jobString>Salvaging apparel.</SalvageApparel.jobString>
+  <SalvageApparel.label>vêtements de récupération</SalvageApparel.label>
+  <SalvageApparel.description>Récupérer les textiles non désirés dans les matières premières</SalvageApparel.description>
+  <SalvageApparel.jobString>Récupération de vêtements.</SalvageApparel.jobString>
 
 
 </LanguageData>

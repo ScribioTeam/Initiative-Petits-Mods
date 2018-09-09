@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TableLoom.label>tailor's loom</TableLoom.label>
-  <TableLoom.description>A tailor's table used to spin raw materials into usable cloth.</TableLoom.description>
-  <TableLoom_Blueprint.label>tailor's loom (blueprint)</TableLoom_Blueprint.label>
-  <TableLoom_Blueprint_Install.label>tailor's loom (blueprint)</TableLoom_Blueprint_Install.label>
-  <TableLoom_Frame.label>tailor's loom (building)</TableLoom_Frame.label>
-  <TableLoom_Frame.description>A tailor's table used to spin raw materials into usable cloth.</TableLoom_Frame.description>
+  <TableLoom.label>Table de tailleur</TableLoom.label>
+  <TableLoom.description>Une table de tailleur utilisée pour filer les matières premières en tissu utilisable.</TableLoom.description>
+  <TableLoom_Blueprint.label>Table de tailleur (projet)</TableLoom_Blueprint.label>
+  <TableLoom_Blueprint_Install.label>Table de tailleur (projet)</TableLoom_Blueprint_Install.label>
+  <TableLoom_Frame.label>Table de tailleur (objet)</TableLoom_Frame.label>
+  <TableLoom_Frame.description>Une table de tailleur utilisée pour filer les matières premières en tissu utilisable.</TableLoom_Frame.description>
 
-  <TableElecLoom.label>electric loom</TableElecLoom.label>
-  <TableElecLoom.description>A tailor's table used to spin raw materials into usable cloth.</TableElecLoom.description>
-  <TableElecLoom_Blueprint.label>electric loom (blueprint)</TableElecLoom_Blueprint.label>
-  <TableElecLoom_Blueprint_Install.label>electric loom (blueprint)</TableElecLoom_Blueprint_Install.label>
-  <TableElecLoom_Frame.label>electric loom (building)</TableElecLoom_Frame.label>
-  <TableElecLoom_Frame.description>A tailor's table used to spin raw materials into usable cloth.</TableElecLoom_Frame.description>
+  <TableElecLoom.label>Table de tailleur électrique</TableElecLoom.label>
+  <TableElecLoom.description>Une table de tailleur utilisée pour filer les matières premières en tissu utilisable.</TableElecLoom.description>
+  <TableElecLoom_Blueprint.label>Table de tailleur électrique (projet)</TableElecLoom_Blueprint.label>
+  <TableElecLoom_Blueprint_Install.label>Table de tailleur électrique (projet)</TableElecLoom_Blueprint_Install.label>
+  <TableElecLoom_Frame.label>Table de tailleur électrique (objet)</TableElecLoom_Frame.label>
+  <TableElecLoom_Frame.description>Une table de tailleur utilisée pour filer les matières premières en tissu utilisable.</TableElecLoom_Frame.description>
 
 
 </LanguageData>

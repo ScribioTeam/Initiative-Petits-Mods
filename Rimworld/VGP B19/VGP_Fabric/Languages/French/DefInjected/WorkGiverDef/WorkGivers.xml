@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DoBillsTableLoom.label>weave at loom</DoBillsTableLoom.label>
-  <DoBillsTableLoom.verb>make cloth</DoBillsTableLoom.verb>
-  <DoBillsTableLoom.gerund>making cloth</DoBillsTableLoom.gerund>
+  <DoBillsTableLoom.label>entrelacer le métier à tisser</DoBillsTableLoom.label>
+  <DoBillsTableLoom.verb>faire du tissu</DoBillsTableLoom.verb>
+  <DoBillsTableLoom.gerund>en faisant du tissu</DoBillsTableLoom.gerund>
 
 
 </LanguageData>
