@@ -3,17 +3,17 @@
 
   <!-- Resource rocks -->
 
-  <MineableSalt.label>compacted salt</MineableSalt.label>
-  <MineableSalt.description>Salt compacted over time..</MineableSalt.description>
+  <MineableSalt.label>sel compacté</MineableSalt.label>
+  <MineableSalt.description>Le sel s'est compacté avec le temps..</MineableSalt.description>
 
-  <ChunkSalt.label>salt</ChunkSalt.label>
-  <ChunkSalt.description>Salt is used into preservation of foods.</ChunkSalt.description>
+  <ChunkSalt.label>sel</ChunkSalt.label>
+  <ChunkSalt.description>Le sel est utilisé dans la conservation des aliments.</ChunkSalt.description>
 
-  <VG_SaltMine.label>salt mine</VG_SaltMine.label>
-  <VG_SaltMine.description>Place on rough stone for digging up salt.</VG_SaltMine.description>
-  <VG_SaltMine_Blueprint.label>salt mine (blueprint)</VG_SaltMine_Blueprint.label>
-  <VG_SaltMine_Frame.label>salt mine (building)</VG_SaltMine_Frame.label>
-  <VG_SaltMine_Frame.description>Place on rough stone for digging up salt.</VG_SaltMine_Frame.description>
+  <VG_SaltMine.label>mine de sel</VG_SaltMine.label>
+  <VG_SaltMine.description>Placer sur une pierre brute pour déterrer le sel.</VG_SaltMine.description>
+  <VG_SaltMine_Blueprint.label>mine de sel (projet)</VG_SaltMine_Blueprint.label>
+  <VG_SaltMine_Frame.label>mine de sel (bâtiment)</VG_SaltMine_Frame.label>
+  <VG_SaltMine_Frame.description>Placer sur une pierre brute pour déterrer le sel.</VG_SaltMine_Frame.description>
 
 
 </LanguageData>

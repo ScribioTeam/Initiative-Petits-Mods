@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookGrillcheese.label>cook two grilled cheeses</CookGrillcheese.label>
-  <CookGrillcheese.description>Two slices of bread grilled with cheese melt in the middle. \n\nMakes 2 servings. \n\nFood Effects: Metabolism.</CookGrillcheese.description>
-  <CookGrillcheese.jobString>Toasting bread.</CookGrillcheese.jobString>
+  <CookGrillcheese.label>cuire deux fromages grillés</CookGrillcheese.label>
+  <CookGrillcheese.description>Deux tranches de pain grillées avec du fromage fondu au centre. \n\nDonne 2 portions. \n\nEffets des aliments : Métabolisme.</CookGrillcheese.description>
+  <CookGrillcheese.jobString>Grillade du pain.</CookGrillcheese.jobString>
 
-  <GrillPolenta.label>grill two polenta</GrillPolenta.label>
-  <GrillPolenta.description>Grilled slices of Polenta. \n\nMakes 2 servings. \n\nFood Effects: Metabolism and Manipulation.</GrillPolenta.description>
-  <GrillPolenta.jobString>Grilling polenta.</GrillPolenta.jobString>
+  <GrillPolenta.label>griller deux polenta</GrillPolenta.label>
+  <GrillPolenta.description>Tranches de polenta grillées. \n\nDonne 2 portions. \n\nEffets des aliments : Métabolisme et manipulation.</GrillPolenta.description>
+  <GrillPolenta.jobString>Grillade de la polenta</GrillPolenta.jobString>
 
-  <Cookgrilledsandwich.label>cook two cheeseburgers</Cookgrilledsandwich.label>
-  <Cookgrilledsandwich.description>A sandwich made of bread, meat, and cheese. \n\nMakes 2 servings. \n\nFood Effects: Metabolism.</Cookgrilledsandwich.description>
-  <Cookgrilledsandwich.jobString>Grilling sandwich.</Cookgrilledsandwich.jobString>
+  <Cookgrilledsandwich.label>faire cuire deux cheeseburgers</Cookgrilledsandwich.label>
+  <Cookgrilledsandwich.description>Un sandwich fait de pain, de viande et de fromage. \n\nDonne 2 portions. \n\nEffets des aliments : Métabolisme.</Cookgrilledsandwich.description>
+  <Cookgrilledsandwich.jobString>Grillade du sandwich.</Cookgrilledsandwich.jobString>
 
-  <CookTacos.label>cook five tacos</CookTacos.label>
-  <CookTacos.description>Meat and Cheese in a corn shell. Requires meat, cheese, and cornmeal to make. \n\n Makes 5 servings. \n\nFood Effects: Manipulation and Metabolism.</CookTacos.description>
-  <CookTacos.jobString>Preparing tacos.</CookTacos.jobString>
+  <CookTacos.label>préparer cinq tacos</CookTacos.label>
+  <CookTacos.description>Viande et fromage dans une galette de maïs. Nécessite de la viande, du fromage et de la semoule de maïs. \n\n Donne 5 portions. \n\nEffets des aliments : Manipulation et métabolisme.</CookTacos.description>
+  <CookTacos.jobString>Préparation des tacos</CookTacos.jobString>
 
-  <CookPorridge.label>cook two porridges</CookPorridge.label>
-  <CookPorridge.description>A simple porridge cooked from grains. \n\nMakes 2 servings. \n\nFood Effects: Sight and Blood Filtration.</CookPorridge.description>
-  <CookPorridge.jobString>Making porridge.</CookPorridge.jobString>
+  <CookPorridge.label>faire cuire deux porridge</CookPorridge.label>
+  <CookPorridge.description>Un simple porridge cuit à base de céréales. \n\nDonne 2 portions. \n\nEffets des aliments : Filtration de la vue et du sang.</CookPorridge.description>
+  <CookPorridge.jobString>Fabrication de porridge.</CookPorridge.jobString>
 
 
 </LanguageData>

@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CraftFlour.label>grind grains into flour</CraftFlour.label>
-  <CraftFlour.description>Grind grains into flour.</CraftFlour.description>
-  <CraftFlour.jobString>Making flour.</CraftFlour.jobString>
+  <CraftFlour.label>moudre les grains en farine</CraftFlour.label>
+  <CraftFlour.description>Moudre les grains en farine.</CraftFlour.description>
+  <CraftFlour.jobString>Fabrication de farine.</CraftFlour.jobString>
 
-  <CraftBulkFlour.label>grind bulk grains into flour</CraftBulkFlour.label>
-  <CraftBulkFlour.description>Grind grains into flour.</CraftBulkFlour.description>
-  <CraftBulkFlour.jobString>Making bulk flour.</CraftBulkFlour.jobString>
+  <CraftBulkFlour.label>moudre des grains en vrac en farine</CraftBulkFlour.label>
+  <CraftBulkFlour.description>Moudre les grains en farine.</CraftBulkFlour.description>
+  <CraftBulkFlour.jobString>Fabrication de farine en vrac.</CraftBulkFlour.jobString>
 
-  <CraftCornmeal.label>grind cornmeal</CraftCornmeal.label>
-  <CraftCornmeal.description>Grind corn into cornmeal.</CraftCornmeal.description>
-  <CraftCornmeal.jobString>Grinding corn.</CraftCornmeal.jobString>
+  <CraftCornmeal.label>moudre de la semoule de maïs</CraftCornmeal.label>
+  <CraftCornmeal.description>Moudre le maïs en semoule de maïs.</CraftCornmeal.description>
+  <CraftCornmeal.jobString>Broyage du maïs.</CraftCornmeal.jobString>
 
-  <CraftBulkCornMeal.label>grind bulk cornmeal</CraftBulkCornMeal.label>
-  <CraftBulkCornMeal.description>Grind corn into cornmeal.</CraftBulkCornMeal.description>
-  <CraftBulkCornMeal.jobString>Grinding corn.</CraftBulkCornMeal.jobString>
+  <CraftBulkCornMeal.label>moudre de la semoule de maïs en vrac</CraftBulkCornMeal.label>
+  <CraftBulkCornMeal.description>Moudre le maïs en semoule de maïs.</CraftBulkCornMeal.description>
+  <CraftBulkCornMeal.jobString>Broyage du maïs.</CraftBulkCornMeal.jobString>
 
-  <GroundSugar.label>grind sugarcane</GroundSugar.label>
-  <GroundSugar.description>Beat and grind those canes to get at that sugar!</GroundSugar.description>
-  <GroundSugar.jobString>Grinding sugarcane.</GroundSugar.jobString>
+  <GroundSugar.label>moudre la canne à sucre</GroundSugar.label>
+  <GroundSugar.description>Battez et broyez ces cannes pour obtenir ce sucre !</GroundSugar.description>
+  <GroundSugar.jobString>Broyage de la canne à sucre.</GroundSugar.jobString>
 
-  <CraftBulkSugar.label>grind bulk sugarcane</CraftBulkSugar.label>
-  <CraftBulkSugar.description>Beat and grind those canes to get at that sugar!</CraftBulkSugar.description>
-  <CraftBulkSugar.jobString>Grinding sugarcane.</CraftBulkSugar.jobString>
+  <CraftBulkSugar.label>broyer la canne à sucre en vrac</CraftBulkSugar.label>
+  <CraftBulkSugar.description>Battez et broyez ces cannes pour obtenir ce sucre !</CraftBulkSugar.description>
+  <CraftBulkSugar.jobString>Broyage de la canne à sucre.</CraftBulkSugar.jobString>
 
 
 </LanguageData>

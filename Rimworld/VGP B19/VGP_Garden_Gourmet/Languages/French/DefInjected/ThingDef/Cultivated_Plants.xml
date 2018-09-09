@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Plantwheat.label>wheat plant</Plantwheat.label>
-  <Plantwheat.description>Wheat is a cereal grain, can be milled into flour.</Plantwheat.description>
+  <Plantwheat.label>plant de blé</Plantwheat.label>
+  <Plantwheat.description>Le blé est une céréale qui peut être moulue en farine.</Plantwheat.description>
 
-  <Plantsugarcane.label>sugarcane plant</Plantsugarcane.label>
-  <Plantsugarcane.description>Cane plant refines into sugar.</Plantsugarcane.description>
+  <Plantsugarcane.label>canne à sucre</Plantsugarcane.label>
+  <Plantsugarcane.description>La canne à sucre se transforme en sucre.</Plantsugarcane.description>
 
 
 </LanguageData>
