@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeBambooWood.label>chop bamboo into wood</MakeBambooWood.label>
-  <MakeBambooWood.description>Cut down bamboo into wood. \n\n100 bamboo into 75 wood logs.</MakeBambooWood.description>
-  <MakeBambooWood.jobString>Chopping wood.</MakeBambooWood.jobString>
+  <MakeBambooWood.label>couper le bambou en bois</MakeBambooWood.label>
+  <MakeBambooWood.description>Couper le bambou en bois. \n\n100 bambous en 75 bûches de bois.</MakeBambooWood.description>
+  <MakeBambooWood.jobString>Couper du bois</MakeBambooWood.jobString>
 
 
 </LanguageData>

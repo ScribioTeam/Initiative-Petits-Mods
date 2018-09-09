@@ -4,19 +4,19 @@
   <!-- Main Categories -->
 
   <agriculture.label>agriculture I</agriculture.label>
-  <agriculture.description>Researches plant genetics to unlock new types of plants to grow! \n\n Unlocks a new tier of vegetables to grow. \n\n Unlocks sowing of Snow Beats, Beans, Red Lentils, and Olives.</agriculture.description>
+  <agriculture.description>Effectue des recherches en génétique végétale pour découvrir de nouveaux types de plantes à cultiver ! \n\n Déverrouille un nouveau niveau de légumes à cultiver. \n\n Déverrouille les semis de betteraves des neiges,haricots,lentilles rouges et olives.</agriculture.description>
 
   <agricultureII.label>agriculture II</agricultureII.label>
-  <agricultureII.description>Researches plant genetics to unlock new types of plants to grow! \n\n Unlocks a new fruits to grow. Fruit has a higher nutrition and requires less to make meals. \n\n Unlocks sowing of Grapes, Agave, Strawberries, Blueberries, and Watermelons.</agricultureII.description>
+  <agricultureII.description>Effectue des recherches en génétique végétale pour découvrir de nouveaux types de plantes à cultiver ! \n\n Déverrouille des nouveaux fruits à cultiver. Les fruits ont une meilleure nutrition et nécessitent moins de temps pour la préparation des repas. \n\n Déverrouille le semis de raisins, agave, fraises, myrtilles, et pastèques.</agricultureII.description>
 
   <agricultureIII.label>agriculture III</agricultureIII.label>
-  <agricultureIII.description>Researches plant genetics to unlock new and exciting new types of plants to grow! \n\n Unlocks new fruit trees to grow. Fruit trees have a longer grow time but a higher yield. \n\n Unlocks sowing of Apples, Bananas, Oranges, and Peaches trees.</agricultureIII.description>
+  <agricultureIII.description>Effectue des recherches en génétique végétale pour découvrir de nouveaux types de plantes à cultiver ! \n\n Débloque de nouveaux arbres fruitiers pour qu'ils poussent. Les arbres fruitiers ont un temps de croissance plus long mais un rendement plus élevé. \n\n Débloque les semis de pommiers, bananiers, orangers et pêchers.</agricultureIII.description>
 
-  <VG_Ambrosia.label>ambrosia</VG_Ambrosia.label>
-  <VG_Ambrosia.description>Researches the ability to grow ambrosia  in hydroponic basins.</VG_Ambrosia.description>
+  <VG_Ambrosia.label>ambroisie</VG_Ambrosia.label>
+  <VG_Ambrosia.description>Recherche sur la capacité de cultiver l'ambroisie dans les bassins hydroponiques.</VG_Ambrosia.description>
 
-  <agricultureIV.label>Wild biome plants</agricultureIV.label>
-  <agricultureIV.description>Researches plant genetics to unlock new and exciting types of plants to grow! \n\n Unlocks new fruits and trees to grow. Fruit trees have a longer grow time but a higher yield. \n\n Unlocks sowing of cherry, coconut, fig, date trees. Pineapples, cloudberries, and gooseberries.</agricultureIV.description>
+  <agricultureIV.label>Plantes sauvages du biome</agricultureIV.label>
+  <agricultureIV.description>Effectue des recherches en génétique végétale pour débloquer de nouveaux types de plantes passionnantes à cultiver ! \n\n Déverrouille de nouveaux fruits et arbres pour qu'ils poussent. Les arbres fruitiers ont un temps de croissance plus long mais un rendement plus élevé. \n\n Débloque les semis de cerisiers, cocotiers, figuiers, dattiers. Ananas, plaquebière et groseilles à maquereau.</agricultureIV.description>
 
 
 </LanguageData>

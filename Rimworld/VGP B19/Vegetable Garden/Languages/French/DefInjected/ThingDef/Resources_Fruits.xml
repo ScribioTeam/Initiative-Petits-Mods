@@ -9,47 +9,47 @@
   <!--[Core] <RawBerries.label>berries</RawBerries.label>-->
   <!--[Core] <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>-->
 
-  <Rawapple.label>apples</Rawapple.label>
-  <Rawapple.description>A red fruit grow on trees.</Rawapple.description>
+  <Rawapple.label>pommes</Rawapple.label>
+  <Rawapple.description>Un fruit rouge qui pousse sur les arbres.</Rawapple.description>
 
-  <Rawbanana.label>banana</Rawbanana.label>
-  <Rawbanana.description>A yellow fruit that grows on trees.</Rawbanana.description>
+  <Rawbanana.label>banane</Rawbanana.label>
+  <Rawbanana.description>Un fruit jaune qui pousse sur les arbres.</Rawbanana.description>
 
-  <Rawgrape.label>grapes</Rawgrape.label>
-  <Rawgrape.description>A sweet fruit that grows on vines.</Rawgrape.description>
+  <Rawgrape.label>raisin</Rawgrape.label>
+  <Rawgrape.description>Un fruit sucré qui pousse sur les vignes.</Rawgrape.description>
 
   <Raworange.label>orange</Raworange.label>
-  <Raworange.description>A sweet fruit that grows on trees.</Raworange.description>
+  <Raworange.description>Un fruit sucré qui pousse sur les arbres.</Raworange.description>
 
-  <Rawpeach.label>peach</Rawpeach.label>
-  <Rawpeach.description>A sweet fruit that grows on trees.</Rawpeach.description>
+  <Rawpeach.label>pêche</Rawpeach.label>
+  <Rawpeach.description>Un fruit sucré qui pousse sur les arbres.</Rawpeach.description>
 
-  <Rawpineapple.label>pineapple</Rawpineapple.label>
-  <Rawpineapple.description>A tropical fruit having large swordlike leaves and a large, fleshy, edible, multiple fruit with a terminal tuft of leaves.</Rawpineapple.description>
+  <Rawpineapple.label>ananas</Rawpineapple.label>
+  <Rawpineapple.description>Fruit tropical ayant de grandes feuilles en forme d'épée et de gros fruits charnus, comestibles et multiples, avec une touffe bourgeonnante de feuilles.</Rawpineapple.description>
 
-  <Rawblueberry.label>blueberry</Rawblueberry.label>
-  <Rawblueberry.description>Blue colored berry that grows in bushes. Even good raw.</Rawblueberry.description>
+  <Rawblueberry.label>myrtille</Rawblueberry.label>
+  <Rawblueberry.description>Baies de couleur bleue qui poussent dans les buissons. Même bon cru.</Rawblueberry.description>
 
-  <Rawwatermelon.label>watermelon</Rawwatermelon.label>
-  <Rawwatermelon.description>A large, roundish or elongated fruit of a trailing vine having a hard, green rind and a sweet, juicy, usually pink or red pulp.</Rawwatermelon.description>
+  <Rawwatermelon.label>pastèque</Rawwatermelon.label>
+  <Rawwatermelon.description>Gros fruit arrondi ou allongé d'une vigne traînante à écorce dure et verte et à pulpe sucrée, juteuse, généralement rose ou rouge.</Rawwatermelon.description>
 
-  <Rawdate.label>date</Rawdate.label>
-  <Rawdate.description>A sweet fruit that grows on trees.</Rawdate.description>
+  <Rawdate.label>datte</Rawdate.label>
+  <Rawdate.description>Un fruit sucré qui pousse sur les arbres.</Rawdate.description>
 
-  <Rawfig.label>fig</Rawfig.label>
-  <Rawfig.description>A sweet fruit that grows on trees.</Rawfig.description>
+  <Rawfig.label>figue</Rawfig.label>
+  <Rawfig.description>Un fruit sucré qui pousse sur les arbres.</Rawfig.description>
 
-  <Rawgooseberry.label>gooseberry</Rawgooseberry.label>
-  <Rawgooseberry.description>A sweet fruit that grows on vines.</Rawgooseberry.description>
+  <Rawgooseberry.label>groseille à maquereau</Rawgooseberry.label>
+  <Rawgooseberry.description>Un fruit sucré qui pousse sur les vignes.</Rawgooseberry.description>
 
-  <Rawcloudberry.label>cloudberry</Rawcloudberry.label>
-  <Rawcloudberry.description>A sweet fruit that grows on vines.</Rawcloudberry.description>
+  <Rawcloudberry.label>plaquebière</Rawcloudberry.label>
+  <Rawcloudberry.description>Un fruit sucré qui pousse sur les vignes.</Rawcloudberry.description>
 
-  <RawCherry.label>Cherries</RawCherry.label>
-  <RawCherry.description>A red berry fruit that grows on trees.</RawCherry.description>
+  <RawCherry.label>Cerise</RawCherry.label>
+  <RawCherry.description>Fruits rouges qui poussent sur les arbres.</RawCherry.description>
 
-  <RawCoconut.label>Coconut</RawCoconut.label>
-  <RawCoconut.description>A coconut fruit that grows on trees. Has a hard outer shell with a juicy fruit flesh inside.</RawCoconut.description>
+  <RawCoconut.label>Noix de coco</RawCoconut.label>
+  <RawCoconut.description>Fruit du cocotier qui pousse sur les arbres. A une coquille extérieure dure avec une chair de fruits juteuse à l'intérieur.</RawCoconut.description>
 
 
 </LanguageData>

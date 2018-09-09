@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Fruitdrink.label>make fruit drink</Fruitdrink.label>
-  <Fruitdrink.description>Press fruit into a juicy drink.</Fruitdrink.description>
-  <Fruitdrink.jobString>Pressing fruit.</Fruitdrink.jobString>
+  <Fruitdrink.label>faire du jus de fruit</Fruitdrink.label>
+  <Fruitdrink.description>Presser les fruits dans une boisson juteuse.</Fruitdrink.description>
+  <Fruitdrink.jobString>Pressage de fruits.</Fruitdrink.jobString>
 
-  <BrewCoffee.label>brew four garden coffees</BrewCoffee.label>
-  <BrewCoffee.description>Brew four cups of coffee</BrewCoffee.description>
-  <BrewCoffee.jobString>Brewing coffee.</BrewCoffee.jobString>
+  <BrewCoffee.label>infuser quatre cafés du jardin</BrewCoffee.label>
+  <BrewCoffee.description>Préparez quatre tasses de café</BrewCoffee.description>
+  <BrewCoffee.jobString>Préparation de café</BrewCoffee.jobString>
 
-  <BulkBrewCoffee.label>brew 12 cups of garden coffee</BulkBrewCoffee.label>
-  <BulkBrewCoffee.description>Brew 12 cups of coffee.</BulkBrewCoffee.description>
-  <BulkBrewCoffee.jobString>Brewing coffee.</BulkBrewCoffee.jobString>
+  <BulkBrewCoffee.label>préparer 12 tasses de café du jardin</BulkBrewCoffee.label>
+  <BulkBrewCoffee.description>Préparer 12 tasses de café</BulkBrewCoffee.description>
+  <BulkBrewCoffee.jobString>Préparation de café</BulkBrewCoffee.jobString>
 
-  <BrewTea.label>brew two garden teas</BrewTea.label>
-  <BrewTea.description>Prepare tea leaves and brew them into cups of tea.</BrewTea.description>
-  <BrewTea.jobString>Brewing tea.</BrewTea.jobString>
+  <BrewTea.label>infuser deux thés du jardin</BrewTea.label>
+  <BrewTea.description>Préparer les feuilles de thé et les infuser dans des tasses de thé.</BrewTea.description>
+  <BrewTea.jobString>Préparation du thé</BrewTea.jobString>
 
-  <BulkBrewTea.label>brew ten cups of garden tea</BulkBrewTea.label>
-  <BulkBrewTea.description>Prepare bulk amounts of tea leaves and brew them into cups of tea.</BulkBrewTea.description>
-  <BulkBrewTea.jobString>Brewing tea.</BulkBrewTea.jobString>
+  <BulkBrewTea.label>infuser dix tasses de thé du jardin</BulkBrewTea.label>
+  <BulkBrewTea.description>Préparez de grandes quantités de feuilles de thé et infusez-les dans des tasses de thé.</BulkBrewTea.description>
+  <BulkBrewTea.jobString>Préparation du thé</BulkBrewTea.jobString>
 
 
 </LanguageData>

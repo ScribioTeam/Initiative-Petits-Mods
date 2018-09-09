@@ -3,11 +3,11 @@
 
   <!-- Misc -->
 
-  <BambooFloor.label>bamboo floor</BambooFloor.label>
-  <BambooFloor.description>bamboo flooring. For that warm, homey feeling.</BambooFloor.description>
+  <BambooFloor.label>plancher en bambou</BambooFloor.label>
+  <BambooFloor.description>Plancher en bambou. Pour ce sentiment chaleureux et accueillant.</BambooFloor.description>
 
-  <IronwoodFloor.label>ironwood floor</IronwoodFloor.label>
-  <IronwoodFloor.description>Ironwood flooring.</IronwoodFloor.description>
+  <IronwoodFloor.label>plancher en bois de fer</IronwoodFloor.label>
+  <IronwoodFloor.description>Plancher de bois de fer.</IronwoodFloor.description>
 
 
 </LanguageData>

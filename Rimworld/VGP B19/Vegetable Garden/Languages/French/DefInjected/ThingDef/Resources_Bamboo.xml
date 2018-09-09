@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bamboo.label>bamboo</Bamboo.label>
-  <Bamboo.description>fast growing grass used for construction.</Bamboo.description>
-  <Bamboo.tools.0.label>log</Bamboo.tools.0.label>
-  <Bamboo.stuffProps.stuffAdjective>bamboo</Bamboo.stuffProps.stuffAdjective>
+  <Bamboo.label>bambou</Bamboo.label>
+  <Bamboo.description>herbe à croissance rapide utilisée pour la construction.</Bamboo.description>
+  <Bamboo.tools.0.label>bûche</Bamboo.tools.0.label>
+  <Bamboo.stuffProps.stuffAdjective>bambou</Bamboo.stuffProps.stuffAdjective>
 
-  <VG_IronWoodLog.label>Ironwood</VG_IronWoodLog.label>
-  <VG_IronWoodLog.description>Wood from ironwood trees. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch. Very beautiful decorative material.</VG_IronWoodLog.description>
-  <VG_IronWoodLog.tools.0.label>log</VG_IronWoodLog.tools.0.label>
-  <VG_IronWoodLog.stuffProps.stuffAdjective>ironwood</VG_IronWoodLog.stuffProps.stuffAdjective>
+  <VG_IronWoodLog.label>Bois de fer</VG_IronWoodLog.label>
+  <VG_IronWoodLog.description>Bois d'arbres en bois de fer. Utile pour la construction de structures, d'armes et même de prothèses simples. Un bâton de bois brut peut être utilisé comme une arme en un clin d'œil. Très beau matériel décoratif.</VG_IronWoodLog.description>
+  <VG_IronWoodLog.tools.0.label>bûche</VG_IronWoodLog.tools.0.label>
+  <VG_IronWoodLog.stuffProps.stuffAdjective>bois de fer</VG_IronWoodLog.stuffProps.stuffAdjective>
 
 
 </LanguageData>

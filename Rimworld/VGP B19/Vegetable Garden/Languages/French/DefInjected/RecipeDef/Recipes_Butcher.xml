@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeSilage.label>make silage</MakeSilage.label>
-  <MakeSilage.description>Make silage from hay and raw grains.</MakeSilage.description>
-  <MakeSilage.jobString>Making silage.</MakeSilage.jobString>
+  <MakeSilage.label>faire de l'ensilage</MakeSilage.label>
+  <MakeSilage.description>Faire de l'ensilage à partir de foin et de céréales brutes.</MakeSilage.description>
+  <MakeSilage.jobString>Fabrication de l'ensilage</MakeSilage.jobString>
 
-  <MakebulkSilage.label>make bulk silage</MakebulkSilage.label>
-  <MakebulkSilage.description>Make large amounts silage from hay and raw grains.</MakebulkSilage.description>
-  <MakebulkSilage.jobString>Making bulk silage.</MakebulkSilage.jobString>
+  <MakebulkSilage.label>faire de l'ensilage en vrac</MakebulkSilage.label>
+  <MakebulkSilage.description>Faites de grandes quantités d'ensilage à partir de foin et de céréales brutes.</MakebulkSilage.description>
+  <MakebulkSilage.jobString>Fabrication d'ensilage en vrac</MakebulkSilage.jobString>
 
-  <VG_MakebulkKibble.label>make bulk kibble</VG_MakebulkKibble.label>
-  <VG_MakebulkKibble.description>Make animal kibble by combining raw meat and plants.</VG_MakebulkKibble.description>
-  <VG_MakebulkKibble.jobString>Making kibble.</VG_MakebulkKibble.jobString>
+  <VG_MakebulkKibble.label>faire des croquettes en vrac</VG_MakebulkKibble.label>
+  <VG_MakebulkKibble.description>Faites des croquettes animales en combinant de la viande crue et des plantes.</VG_MakebulkKibble.description>
+  <VG_MakebulkKibble.jobString>Fabrication de croquettes</VG_MakebulkKibble.jobString>
 
 
 </LanguageData>
