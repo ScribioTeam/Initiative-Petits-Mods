@@ -1,0 +1,311 @@
+﻿l_english:
+ rusrevolt.2.t:0 "The Tsar abdicates"
+ rusrevolt.2.d:0 "The ongoing war has caused a breakdown of morale and mutiny within the army, stoked popular discontent with the autocracy and led to riots in the very heart of the Empire, which have compelled Nicholas II to abdicate the throne. Now that the monarchy has been overthrown, a Provisional Government is obliged to take charge and extract the Russian state from the dire straits she finds herself in. Meanwhile, the Soviet of Workers’ and Soldiers' Deputies is being formed in Petrograd, also aspiring to become the dominant power in Russia. It would be most unwise to grant them an excuse for confrontation, therefore we should either listen to their counsel, or suppress their activities."
+ rusrevolt.2.a:0 "Long live the Republic!"
+ 
+ rusrevolt.5.t:0 "Russian Revolution!"
+ rusrevolt.5.d:0 "The world war has exacerbated internal issues within the Russian Empire, forcing Tsar Nicholas II Romanov to take extreme measures and abdicate the throne. The democratic opposition has formed a Provisional Government, which lacks support from the working class of the country. If the new government does not make concessions to the burgeoning strength of the Petrograd Soviet, which considers itself the sole legitimate authority, then perhaps we should prepare for an armed confrontation within Russia itself."
+ rusrevolt.5.a:0 "The collapse of the Russian autocracy ..."
+ 
+ rusrevolt.3.t:0 "Minister-Chairman Appointed"
+ rusrevolt.3.d:0 "Prince Georgy Lvov has been appointed as head of the Provisional Government during a difficult period for the new republic. While a system of Dual Power operates within Russia, the Provisional Government must restore order to the rebellious capital, and bring the war to a triumphant conclusion."
+ rusrevolt.3.a:0 "I hope he manages to lead the country out of crisis."
+ 
+ ww1_russia.20.a:0 "Crush the enemies of revolution!"
+ ww1_russia.20.b:0 "For the Tsar and Fatherland!"
+ ww1_russia.20.c:0 "And what can we do?"
+ 
+ rusrevolt.1.t:0 "Lvov Resigns"
+ rusrevolt.1.d:0 "In view of the indecisiveness of Minister-Chairman Georgy Lvov, the decision has been taken to replace him with Alexander Kerensky, the highly popular and charismatic Minister for War and one of the leaders of the Socialist-Revolutionaries. Now, Kerensky, the "Knight of the Revolution", must remedy the chaos and disorder prevalent throughout the country."
+ rusrevolt.1.a:0 "Kerensky is the last hope of the Republic."
+ 
+ rusrevolt.4_tt:0 "§RThis may provoke the Bolsheviks uprising in the near future!§\n"
+ 
+ rusrevolt.4.t:0 "Uprising in Petrograd!"
+ rusrevolt.4.d:0 "Soldiers and sailors in Petrograd demanded the immediate dismantlement of the Provisional Government, and the transfer of all power to the Soviets! The Bolsheviks, directed by their leader, Vladimir Lenin, vehemently agitated for the overthrow of the government. The uprising turned into a bloody massacre in the streets of the capital, as government forces opened fire. Kerensky’s popularity has plummeted to the point that he holds neither credability nor respect amongst the generals. The situation is worrying, as the rebellious General Lavr Kornilov has advanced his troops towards Petrograd, thus becoming yet another enemy of the embattled Republic. He threatens to establish a military dictatorship in Russia! However, the establishment of such a dictatorship would completely erase all of our successes since the overthrow of the Tsar!"
+
+ rusrevolt.4.a:0 "We will get rid of the Bolsheviks ourselves!"
+ rusrevolt.4.b:0 "Kornilov will drive out all the Bolsheviks!"
+ 
+ rusrevolt.8.t:0 "Coup d’état in Russia!"
+ rusrevolt.8.d:0 "The political situation in Russia continues to astound with its rapid changes and volatility. Today, the newly established Russian Republic was overthrown by the rebel General Lavr Kornilov. The Petrograd Soviet was dispersed by the General’s guards, and the leaders of the Bolsheviks were forced to flee to Germany in the hopes of one day returning and liberating their homeland from the Kornilov regime. The Provisional Government itself was not spared Kornilov’s wrath, and was forcefully disbanded. Minister-Chairman Alexander Kerensky managed to flee the Winter Palace shortly before the arrival of the Kornilov’s troops. Kerensky disappeared into the US embassy, before fleeing by sea to the United States together with the American embassy staff and other officials."
+ rusrevolt.8.a:0 "The Russian mutiny is senseless and merciless!"
+ 
+ rusrevolt.6.t:0 "The Storming of the Winter Palace!"
+ rusrevolt.6.d:0 "The failed policies of the Provisional Government since taking power have boosted the popularity of the outlawed Bolshevik Party. Ultimately, the Petrograd Soviet, being almost completely controlled by the Bolsheviks, decided to seize power through an armed uprising. The forces of the Red Guard deprived the Provisional Government of vital access to communications such as printing presses and telegraph offices in the capital. Government supporters were swept aside and control of strategically important facilities in Petrograd was wrested from them. The last bastion of the Provisional Government is their residence: the Winter Palace in the heart of the city. A second revolution now seems inevitable, with the population tensely awaiting the signal that will set off the storming of the palace.\nThen, from the deck of the cruiser «Aurora», a blank shot is fired..."
+ rusrevolt.6.a:0 "Defend the Winter Palace!"
+ rusrevolt.6.b:0 "Storm the Winter Palace!"
+ rusrevolt.6.c:0 "Defend the Winter Palace!" 
+
+
+
+ rusrevolt.7.t:0 "The Great Socialist Revolution!"
+ rusrevolt.7.d:0 "Another uprising took place in Russia last night. The Bolsheviks took the offensive and seized the seat of the Provisional Government: the Winter Palace. All remaining ministers were arrested, and the palace’s defenders voluntarily surrendered to the Soviet. The flames of socialist revolution spread like wildfire throughout Russia, causing shockwaves that reverberate across the entire world. However, the scattered forces of the Provisional Government and other groups are ready to repulse the Soviets, with whom they have fundamental disagreements. Perhaps, if Vladimir Lenin succeeds in defeating his opponents, we can begin to contemplate world revolution?"
+ rusrevolt.7.a:0 "The Revolution from which the world shook."
+ rusrevolt.7.b:0 "The Revolution triumphant!"
+ 
+ 
+ rusrevolt.ukr.1.d:0 "The Central Rada of Ukraine received an ultimatum from the Soviet government. They demand to leave their neutral position in the Civil War, they call us accomplices of the counter-revolution! We are going through hard times, and we also have a war inside the country, and Ukrainian communists and anarchists are also pushing hard on the government. If it comes to Russia's intervention, then the country will be in chaos ..."
+ rusrevolt.ukr.1.t:0 "Intervention of Soviet Russia"
+ rusrevolt.ukr.1.b:0 "Tell them that we agree."
+ rusrevolt.ukr.1.a:0 "Ukraine goes its own way!"
+ 
+ rusrevolt.ukr.2.t:0 "Ukraine rejects the ultimutum"
+ rusrevolt.ukr.2.d:0 "The Central Rada refused to negotiate with the Council of People's Commissars. We can not wait any longer, as thousands of Ukrainians are waiting for the restoration of order in the country. With the support of the Ukrainian Council, we will be able to break the counter-revolution in Ukraine!"
+ rusrevolt.ukr.2.a:0 "Maybe we'll leave them alone?"
+ rusrevolt.ukr.2.b:0 "We will ourselves establish Soviet power!"
+ 
+ rusrevolt.ukr.3.t:0 "Ukraine accepts the agreement"
+ rusrevolt.ukr.3.d:0 "The Central Rada was dissolved, and the power passed into the hands of Ukrainian people's deputies. The Soviet power is established in the country!"
+ rusrevolt.ukr.3.a:0 "All power to the Soviets!"
+ 
+ 
+ rusrevolt.ukr.4.t:0 "The Soviets are retreating"
+ rusrevolt.ukr.4.d:0 "The Council of People's Commissars refused to intervene in our affairs, recognizing the legitimacy of the Central Rada and Ukraine's sovereignty. Now we can calmly recover after the revolution, paying no attention to the Communists."
+ rusrevolt.ukr.4.a:0 "Lucky for us, lads!"
+ 
+ rusrevolt.ukr.pol.1.t:0 "Call for help"
+ rusrevolt.ukr.pol.d.t:0 "The Ukrainian Rada asks us for help. They need support in the fight against the Soviet government, which also threatens us. In case of victory, Ukrainians are ready to recognize the territory of Volhynia as Polish. It is high time for us to unite in the fight against the threat of the Reds!"
+ rusrevolt.ukr.pol.a.t:0 "Stop the Bolsheviks!"
+ 
+ 
+ rusrevolt.pol.1.t:0 "The Reds are coming!"
+ rusrevolt.pol.1.d:0 "Poland was the last bastion between Europe and the Soviet Revolution. Our people, who gained their independence in the Great War with difficulty, now have the right to conduct an independent policy. Now free Poland will fight for the restoration of the greatness of the Polish-Lithuanian Commonwealth! We will beat off the weakened Russia of the land of Belarus and teach them!"
+ rusrevolt.pol.1.a:0 "Defeat the Bolsheviks!"
+ rusrevolt.pol.1.b:0 "No, enough of us to be bloody!"
+ 
+ rusrevolt.pol.2.t:0 "The Poles went on the offensive"
+ rusrevolt.pol.2.d:0 "Poland rejected our demands and unexpectedly switched to an offensive towards Soviet Belarus. We did not count on this outcome of the events."
+ rusrevolt.pol.2.a:0 "What are we so unlucky with our neighbors?"
+ 
+ rusrevolt.pol.3.t:0 "Poland accepts our agreement"
+ rusrevolt.pol.3.d:0 "The Polish government accepted our demands. Now the Warsaw Soviet creates a new government that will mark the next victory of the Great Revolution!"
+ rusrevolt.pol.3.a:0 "Long live the World Revolution!"
+ 
+ rusrevolt.pol.4.a_tt:0 "We will make peace with the Soviets."
+ rusrevolt.pol.4.t:0 "The protracted war"
+ rusrevolt.pol.4.d:0 "We were counting on seizing Belarus and developing success in Ukraine, however, the Russians managed to seize the initiative and almost break our troops near Warsaw. We need to urgently sign the peace, while the position of the Soviets has not improved."
+ rusrevolt.pol.4.a:0 "Stop this madness!"
+ rusrevolt.pol.4.b:0 "We still have chances!"
+ 
+ 
+ rusrevolt.pol.5.t:0 "Poland offers peace"
+ rusrevolt.pol.5.d:0 "Poland can no longer wage war, therefore refuses claims to Belarus and offers the white world. Maybe it's for the best. Too often we fight with anyone."
+ rusrevolt.pol.5.a:0 "We agree"
+ rusrevolt.pol.5.b:0 "No, we will bring the attack to the end!"
+ 
+ rusrevolt.pol.6.t:0 "Councils reject peace"
+ rusrevolt.pol.6.d:0 "The Soviets do not want to negotiate with us. Peace with the Soviets will not."
+ rusrevolt.pol.6.a:0 "Kurwa!"
+ 
+ rusrevolt.pol.7.a_tt:0 "Poland will get the territory of Belarus."
+ rusrevolt.pol.7.t:0 "The protracted war"
+ rusrevolt.pol.7.d:0 "The Poles seized the territory of Belarus, but continue to advance into the territory of the RSFSR. If this continues, the world will see the most shameful defeat in its history."
+ rusrevolt.pol.7.a:0 "They will receive Belarus"
+ rusrevolt.pol.7.b:0 "This is some kind of misunderstanding!"
+ 
+ 
+ 
+ rusrevolt.pol.8.t:0 "Belarus is ours!"
+ rusrevolt.pol.8.d:0 "Soviet power fell in Belarus, and now these lands belong to the Rech Pospolita, which is rising!"
+ rusrevolt.pol.8.a:0 "This is a great victory for Poland!"
+ 
+ 
+ SOV.tsar.1.t:0 "The fate of Nicholas II"
+ SOV.tsar.1.d:0 "Since the Second Revolution in Russia, Tsar Nicholas was in exile with his family. Now the life and fate of the deposed monarch is in our hands. It remains to be decided whether an autocrat is needed in the Soviet Republic, which plunged the country into a bloody war?"
+ SOV.tsar.1.a:0 "Execute the imperial family!"
+ SOV.tsar.1.a_tt:0 "Family of Nicholas II and tsar will be killed. Some of the family can declare themselves emperors."
+ SOV.tsar.1.b:0 "Send Nicholas into exile."
+ SOV.tsar.1.b_tt:0 "Nicholas II and his family will leave the country. He can declare himself a legitimate ruler, however, the monarchy in Russia is banned."
+ 
+ SOV.tsar.2.t:0 "Nicholas II died!"
+ SOV.tsar.2.d:0 "The illegal Soviet government gave the order to kill our Tsar, Nicholas II. Together with him were shot his son, the direct heir of the imperial throne, and his entire family. Russia has lost in his person the last hope to revive the empire, but the relatives of the royal family of Romanovs who fled abroad and crossed over to our side are ready to support us in the fight against the bloody regime of the Communists! The Romanov family will not perish in time!"
+ SOV.tsar.2.a:0 "They died for Russia ..."
+ 
+ SOV.tsar.3.t:0 "Return of Nicholas II"
+ SOV.tsar.3.d:0 "Our Tsar-father returned from exile! Having spent several months in confinement with his family, Nicholas II is struggling to keep his feet, but the news of his return will certainly raise the spirit of our White Guard. Nikolai recognizes his renunciation as a mistake, because the slightest manifestation of weakness has brought the country to a long-term crisis. Now we need to decide whether Nicholas II is ready to take the reins of ruling by Great Russia in such a difficult time?"
+ SOV.tsar.3.a:0 "Nikolai is weak, he will not hold power again."
+ SOV.tsar.3.b:0 "The Tsar will revive the Russian Empire!"
+ 
+ SOV.tsar.4.t:0 "Revival of autocracy"
+ SOV.tsar.4.d:0 "All this time the White movement fought for the honor of our Tsar. Yes, we had serious disagreements and not all agree on the restoration of the monarchy in Russia, but it was only through our efforts that we managed to take Nicholas II out of captivity. Now we need to decide whether to be Russia under the auspices of the Romanovs' house, or to continue to create a new government under the leadership of Kolchak."
+ 
+ SOV.tsar.5.t:0 "New Tsar"
+ SOV.tsar.5.d:0 "All this time the White movement fought for the honor of our Tsar. Yes, we had serious disagreements and not all agree on the restoration of the monarchy in Russia, but still the Fatherland needs a legitimate leader. Among the representatives of the Romanovs' house, the closest heir is the cousin of the deceased Nikolai, Kirill Vladimirovich. However, only Alexander Kolchak  can say the decisive word to revive the Russian Empire, or to continue his dictatorship."
+ SOV.tsar.5.a:0 "Glory to Tsar Kirill I"
+ SOV.tsar.5.a:0 "Tsar Kolchak - sounds good!"
+ 
+ 
+ 
+ SOV.parlament.1.t:0 "Convocation of the Constituent Assembly"
+ SOV.parlament.1.d:0 "Elections to the Constituent Assembly showed that the Socialist Revolutionaries are particularly popular among the population, who occupied more than half of the seats, which by right of revolution should belong to us, the Bolsheviks! In addition, it turned out that the counter-revolutionary elements somehow got into the to the Assembly. The revolution is under threat, it is urgent to make a choice, who should give power to moderate Mensheviks, radical Bolsheviks or liberal SRs?"
+ SOV.parlament.1.a:0 "Does anyone think about the revolution?"
+ 
+ 
+ 
+ 
+ SOV.dictatury.1.t:0 "Establishing a dictatorship"
+ SOV.dictatury.1.d:0 "We decided to disperse the Constituent Assembly. Elections will no longer be held. On the way the Bolsheviks had a Menshevik party, which also has popular support, especially after the aggressive actions of the party of Lenin. The Soviets can no longer be divided and only one party will take power."
+ SOV.dictatury.1.a:0 "The Bolsheviks are winning!"
+ SOV.dictatury.1.b:0 "This is the victory of the Mensheviks!"
+ 
+ 
+ SOV.esers.1.t:0 "The victory of democracy"
+ SOV.esers.1.d:0 "The Bolsheviks are defeated in the struggle for power because of rude policy. In Soviet Russia, a democratic regime is established, and the coalition of socialists unites in the party of the RSDLP around the movement of the Mensheviks. Viktor Chernov, leader of the Socialist Revolutionary Party, announces the victory of democracy in the country."
+ SOV.esers.1.a:0 "In battle you will find your right!"
+ 
+ 
+ rusrevolt.9.t:0 "Ukrainian-Soviet War!"
+ rusrevolt.9.d:0 "The Ukrainian Central Rada declared that it would not obey the instructions of the Soviet government. In response to the political demarche, Russia declared war on the government of Ukraine in order to establish the power of the Soviets in the country. The world public observes with attention the events in the territories of the former Russian Empire."
+ rusrevolt.9.a:0 "The troubled times have come ..."
+ 
+ rusrevolt.10.t:0 "Soviet power in Ukraine"
+ rusrevolt.10.d:0 "After the pressure on the Central Rada, the Ukrainian government surrendered to Russia. Now the new government will be formed by the Ukrainian Soviets, which have already proclaimed their victory in the Ukrainian civil war and the formation of the Ukrainian Soviet Socialist Republic."
+ rusrevolt.10.a:0 "The first success of the Soviets"
+ 
+ rusrevolt.11.t:0 "Soviet-Polish war!"
+ rusrevolt.11.d:0 "This afternoon the Polish army launched an offensive against Soviet Belarus. The conflict began because of serious confrontations between Russia and Poland. On the demand for the establishment of the Soviet government, Poland began fighting to restore the borders of the lost Commonwealth. Although the fragile Polish army has few chances, the Soviet troops are in a difficult position because of the unstable situation in the country."
+ rusrevolt.11.a:0 "Poland has a chance to stop the World Revolution."
+ rusrevolt.11.b:0 "Why don't they surrender?"
+ 
+ rusrevolt.12.t:0 "Soviet power in Poland"
+ rusrevolt.12.d:0 "Russia is reporting a new victory for the Great Socialist Revolution! In Poland, the centrist government was overthrown and the authority of the Warsaw Council was established. The success of Soviet Russia can also affect the countries of Western Europe."
+ rusrevolt.12.a:0 "The world revolution is approaching."
+ 
+ 
+ rusrevolt.13.t:0 "Minsk Peace"
+ rusrevolt.13.d:0 "Poland won an astonishing victory over the Soviets. After inflicting a crushing blow to Belarus, the Polish army forced the Council of People's Commissars to make concessions and give up the territory of Soviet Byelorussia. The defeat of Russia will greatly affect the reputation of the revolution."
+ rusrevolt.13.a:0 "Is the Polish Commonwealth comes back?"
+ 
+ 
+ rusrevolt.14.t:0 "Bolshevism is defeated!"
+ rusrevolt.14.d:0 "The Constituent Assembly and the Soviets came to a decision on a new direction in the conduct of the Socialist Revolution. Leaving radical ideas and methods of the Bolsheviks, the country's socialists created a democratic government, which included a coalition of Mensheviks and Socialist-Revolutionaries. The revolution, as the leader of the Socialist-Revolutionaries, Viktor Chernov, said, will continue until the victory over the White movement."
+ rusrevolt.14.a:0 "Is this the end of the revolution?"
+ 
+ 
+ rusrevolt.15.t:0 "Death Battalions"
+ rusrevolt.15.d:0 "The army is weak, we can not deny it. The fighting spirit due to poor supply and terrible losses is getting lower, the troops are deserting and fraternizing with the enemy. The soldier needs an example of courage, a goal, for which he must fight, even if the war does not make more sense for him. We create the First Women's Death Team under the command of Maria Bochkareva, a true patriot and heroine of this war. If russian peasant is not able to stop the enemy, then russian woman can already tame enemies and beat out all fear from our soldiers."
+ rusrevolt.15.a:0 "War is not a woman's business ..."
+ rusrevolt.15.a_tt:0 "The Women's Battalion of Maria Bochkareva will appear in country."
+ 
+ rusrevolt.worldrevolution.1.t:0 "The World Revolution"
+ rusrevolt.worldrevolution.1.d:0 "Soviet Russia seeks support for a revolution in the world. Not all countries agree with the aggressive demands of the Communists, however, the idea of the World Revolution is in the air, and more often in the streets one can hear demands for the overthrow of the capitalist regime and the establishment of people's government. It is worth deciding whether we recognize the Socialist Revolution or become its enemies?"
+ rusrevolt.worldrevolution.1.a:0 "Recognize the revolution!"
+ rusrevolt.worldrevolution.1.b:0 "We aren't friends of commies."
+ 
+ 
+ rusrevolt.integration.1.t:0 "Soviet Republics"
+ rusrevolt.integration.1.d:0 "After the events in Ukraine and Poland, Soviet Russia changed the plan for the revolution. Now the Soviet republics will unite into a single Union through integration. The Soviet government sent us a proposal to join the Union of republics. Are we ready to unite with the Soviets for the benefit of the revolution, or is our sovereignty more dear to us?"
+ rusrevolt.integration.1.a:0 "We agree on integration."
+ rusrevolt.integration.1.b:0 "Never!"
+ 
+ 
+ 
+ 
+ rusrevolt.16.t:0 "New capital"
+ rusrevolt.16.d:0 "Moscow - the largest city of our vast homeland went over to the side of the Revolution. Of course, we can not but recognize Petrograd as an important city for every participant in this holy war with world imperialism, for this is the very heart of the Revolution, but nevertheless, for the further development of the offensive, we need to transfer our entire administration to the Kremlin in Moscow, so as not to be trapped, if the interventionists attempt to attack Petrograd near the border."
+ rusrevolt.16.a:0 "Moscow, rings the bells!"
+ rusrevolt.16.b:0 "Petrograd, the Cradle of the Revolution!"
+ 
+ rusrevolt.17.t:0 "End of the Civil War"
+ rusrevolt.17.d:0 "The white movement was defeated! Kolchak was executed, and all the hopes of supporters of the monarchy for the restoration of the tyranny of the common people came to naught. The last white generals run in panic. Those whom we could arrest will be brought before the Supreme Court. This Civil War had no equal in scale losses and the number of participants. And the consequences and destruction left after the conflict, we will restore more than one year. But with faith in the victory of the Revolution and collective efforts, we will build a new world, who was nothing, that will be everything!"
+ rusrevolt.17.a:0 "We will not forget our comrades."
+ rusrevolt.18.d:0 "The red movement is defeated. We celebrate the victory in this long-term war for justice, for honor, for the Fatherland! Lenin fled again, but now this feeble revolutionary can not escape prison abroad. Everyone who is involved in the accomplished offensive against Russia is awaiting the death penalty, no less! For all the destruction, for all suffering, the Reds will respond in full. And now we have to destroy the pro-Soviet insurgents in the territories of the former Empire and pray for the souls of the dead fighters in this bloody massacre for Russia."
+ rusrevolt.18.a:0 "We will not forget our brothers!"
+ rusrevolt.19.d:0 "The war between the revolutionary Red Army and the Whiteguard movement in Russia ended in an obvious defeat of the Whites. All this time this great country was fighting in convulsions and was bleeding no less than in the Great War with Germany. Now the Soviet country declared victory. The support of the Entente did not help the monarchists and other participants in the anti-revolutionary coalition, they did not restrain the onslaught of the Red Army and the terrible famine in the country and other weighty reasons that could break the spirit of any person. But as practice showed, faith in the victory of world socialism was stronger than fear of death. With the emergence of socialism in the world, a new page in the history of mankind will begin."
+ rusrevolt.20.d:0 "The war between the revolutionary Red Army and the White Guard movement in Russia ended in the collapse of the communist uprising. Supporters of the monarchy in Russia, members of the anti-revolutionary coalition with the support of the Entente, achieved success in the struggle against socialism. But now the country lies in the wreckage of the collapsed empire and will not recover soon. The civilian brother-murderous war had no borders and touched many countries around the world. However, we should not say that the defeat of socialism in the world is the final point of this movement. After the fall of Soviet Moscow and Petrograd, thousands of revolutionaries fled abroad to sow the grain of socialism in order to fight the world evil of capitalism."
+ rusrevolt.19.a:0 "These were awful years ..."
+ 
+ rusrevolt.21.t:0 "Defeat of the revolution"
+ rusrevolt.21.d:0 "After the defeat of socialism in Russia, many of the figures and revolutionaries fled to different countries. Having a vast experience in their revolutionary work, they will easily find strong support among the people. It seems that the collapse of Soviet Russia is a sacrifice brought for the beginning of a full-fledged World Revolution ..."
+ rusrevolt.21.a:0 "The world revolution is nonsense!"
+ rusrevolt.21.b:0 "Arrest prominent agitators, before it's too late!"
+ 
+ rusrevolt.ussr.1.t:0 "Soviet Union"
+ rusrevolt.ussr.1.d:0 "At the Congress of Soviets, the deputies of the republics decided that the Russian Socialist Federation would be transformed into a single Soviet Union. This is a real triumph of the revolution! Now, with a united front, we will be able to defeat the bourgeois counter-revolution!"
+ rusrevolt.ussr.1.a:0 "This is the beginning of a new story."
+ rusrevolt.ussr.1_tt:0 "A number of ideas of Soviet Russia will be removed. Russia's ideas won't be available for Soviet Union. "
+ 
+ 
+ rusrevolt.ussr.2.t:0 "Soviet Union"
+ rusrevolt.ussr.2.d:0 "The Communists announced another victory of the revolution. Having united several countries of the former Russia of the Empire into one state, the Soviet Union was created, according to the draft of the Communists. Formally, the state is united in a federation, with some conditions for the existence of the Union. The new state renounces the principle of isolation, since communist leaders are confident of the International's victory in the world. In the time that has passed since the beginning of the revolution, in many countries socialism has gained serious support."
+ rusrevolt.ussr.2.a:0 "Triumph of the Communists."
+ 
+ rusrevolt.ussr.3.t:0 "Lenin leaves us"
+ rusrevolt.ussr.3.d:0 "The leader of the revolution, Comrade Lenin survived the assassination and has been feeling terribly lately, but continues to work actively at the desk. The country's leadership is very worried about Vladimir Ilyich's health, but on the other hand, because of the risk of Lenin's departure from politics, political fronts formed in the party, ready to cling to each other in the struggle for leadership in the Union. The most serious candidates for the post of Leader of the world proletariat are Trotsky and Stalin. We need to decide who to support in the struggle for power."
+ rusrevolt.ussr.3.a:0 "This is the right of General Secretary Stalin."
+ rusrevolt.ussr.3.b:0 "The cause of the revolution will continue Trotsky."
+ rusrevolt.ussr.3_tt:0 "§YThere will be a series of events during which the new leader of the Soviet Union will establish a personality cult in his honor! §\n"
+ 
+ rusrevolt.ussr.4.t:0 "Death of Vladimir Lenin"
+ rusrevolt.ussr.4.d:0 "News came from the Soviet Union. Unfortunately, because of poor health, the leader of the Socialist Revolution, Vladimir Lenin, died. The body was decided to be buried in the hastily constructed mausoleum of the Kremlin in tribute to the great leader of communism. The right to be the new leader of the Soviet Union was assumed by the party's general secretary, Joseph Stalin."
+ rusrevolt.ussr.4.a:0 "The Communists lost the great leader."
+ 
+ rusrevolt.ussr.5.t:0 "Death of Vladimir Lenin"
+ rusrevolt.ussr.5.d:0 "News came from the Soviet Union. Unfortunately, due to poor health, the leader of the Socialist Revolution, Vladimir Lenin, died. The body was decided to be buried in the hastily constructed mausoleum of the Kremlin in tribute to the great leader of communism. The right to be the new leader of the Soviet Union was taken by the closest associate of Comrade Lenin - Lev Trotsky."
+ rusrevolt.ussr.5.a:0 "The Communists lost the great leader."
+ 
+ rusrevolt.ussr.6.t:0 "Cult of personality"
+ rusrevolt.ussr.6.d:0 "The whole party passed under the control of Comrade Stalin; now our leader is not threatened by the anti-Soviet activities of Leon Trotsky. The political competitor was expelled from the country so that his agitation against Stalin's policies did not divide the country, and his supporters did not threaten the life of party members. And no more that will not prevent Comrade Joseph Vissarionovich from leading us on the road to communism."
+ rusrevolt.ussr.6.a:0 "Glory to the great Stalin!"
+ 
+ rusrevolt.ussr.7.t:0 "Cult of personality"
+ rusrevolt.ussr.7.d:0 "Comrade Lev Trotsky delivered a speech at the Congress of Soviets of the Union, exposing his political opponent Stalin, accusing him of anti-revolutionary policies. Stalin adhered to aggressive policy, contrary to the demands of the revolution. More than his ambitions will not prevent Trotsky from leading our Union forward, towards world communism!"
+ rusrevolt.ussr.7.a:0 "Revolution is Me!"
+ 
+ rusrevolt.ussr.8.t:0 "Murder of Kirov"
+ rusrevolt.ussr.8.d:0 "A popular politician, party secretary Sergei Kirov was killed tonight on his way to the meeting. The offender was caught immediately after the murder. All those who had anything to do with the plot against Kirov were declared enemies of the people. The death of a party leader is the beginning of a war with conspirators inside the country who attempt to assassinate every respectable Soviet citizen, and also threaten our Leader of the proletariat!"
+ rusrevolt.ussr.8.a:0 "We have the right to suspect everyone!"
+ rusrevolt.ussr.8_tt:0 "Trotsky is declared an enemy of the Soviet people!"
+ 
+ 
+ rusrevolt.ussr.9.t:0 "Murder of Kamenev"
+ rusrevolt.ussr.9.d:0 "A popular politician, participant of the revolution and an approximate Lenin, Lev Kamenev, was killed this evening at the exit from the Moscow Soviet. The attacker was caught in hot pursuit and recognized as a terrorist, he is awaited with the death penalty. Those involved in the murder of Lev Kamenev are immediately declared a threat to the entire socialist world. With the death of Comrade Kamenev, the search for and liquidation of the terrorist threat coming from within the party will begin. We will again have to take tough measures to protect the gains of the Revolution!"
+ rusrevolt.ussr.9.a:0 "Someone is already on the blacklist."
+ rusrevolt.ussr.9_tt:0 "Stalin is the enemy of the permanent revolution!"
+ 
+ rusrevolt.ussr.10.t:0 "City of Lenin"
+ rusrevolt.ussr.10.d:0 "The death of Comrade Lenin was strongly reflected in the life of every Soviet man, so we decided to pay tribute to the leader of the revolution, devoted to his cause. Petrograd, the cradle of the revolution will be renamed in memory of Vladimir Ilyich."
+ rusrevolt.ussr.10.a:0 "He deserved this honor."
+ rusrevolt.ussr.10.b:0 "Name Petrograd sounds better ..."
+ 
+ rusrevolt.ussr.11.t:0 "City of Stalin"
+ rusrevolt.ussr.11.d:0 "Our great Leader Stalin was a participant in the Civil War and fought fierce battles on the Kuban front with the White Army of the Don Army. Thanks to his zeal, control over the city of Tsaritsyn was restored, but, as you can guess, we can not tolerate the survivals of tsarism in the Soviet country. The Council supported the initiative to rename Tsaritsyn to Stalingrad in honor of the merit of our leader in the struggle for the formation of the Soviet Union."
+ rusrevolt.ussr.11.a:0 "Long live Comrade Stalin!"
+ 
+ rusrevolt.ussr.12.t:0 "City of Trotsky"
+ rusrevolt.ussr.12.d:0 "Thanks to Comrade Leon Trotsky, we united the country in the struggle against the tsarists and crushed them on all fronts. The war was long over, but the relics of the Empire remained in the names of many cities, and one of them was Tsaritsyn. We can not leave such a name - this is blasphemy! From this moment we rename Tsaritsyn to the city of Leon Trotsky - Leongrad! Without his genius, the revolution would never have happened!"
+ rusrevolt.ussr.12.a:0 "Only Trotsky will be able to crush the counter!"
+ 
+ rusrevolt.intervention.1.t:0 "Intervention Entente"
+ rusrevolt.intervention.1.d:0 "We underestimated the threat of revolution and plunged the country into the Civil War by inaction during the war with Germany. But our former enemies capitulated, and former allies do not recognize our cause. The only way out to avoid failure in the Civil War is to ask the Entente for help."
+ rusrevolt.intervention.1.a:0 "We are allies. I hope so."
+ 
+ rusrevolt.intervention.2.t:0 "Intervention in Russia"
+ rusrevolt.intervention.2.d:0 "The movement of the White Guard, which conducts the Civil War with the revolutionaries for the restoration of monarchical rule, requests immediate assistance. If we agree to support, this will only mean one thing: we will declare war on the Socialist Revolution and invade Russia. After all that we experienced in the Great War, do we need it?"
+ rusrevolt.intervention.2.a:0 "First Russia, and then the whole world. We must stop them!"
+ rusrevolt.intervention.2.b:0 "No thanks. It's cold there."
+ 
+ rusrevolt.intervention.3.t:0 "Support for intervention"
+ rusrevolt.intervention.3.d:0 "The volunteer corps of the interventionists is already preparing to join us. Their support will not be superfluous."
+ rusrevolt.intervention.3.a:0 "Thank God."
+ 
+ rusrevolt.intervention.4.t:0 "Rejection of intervention"
+ rusrevolt.intervention.4.d:0 "Not all countries decided to support us in the struggle against the revolutionaries. It will be worse for them if we do not restrain the revolution here and now."
+ rusrevolt.intervention.4.a:0 "Damn it!"
+ 
+ rusrevolt.fin.1.t:0 "Finnish question"
+ rusrevolt.fin.1.d:0 "The civil war is blazing in all the territories of the former empire, and it would be at least shameful not to support our comrades in the struggle for justice. Now the most tense point of this war is in Finland and even minimal pressure on the Finnish Senate can cause large-scale military operations in the country. On the other hand, the Senate is a gang of bureaucrats on a leash from Germany. If we hold the Finnish Council, the Germans will immediately react and our comrades will not have a chance to win."
+ rusrevolt.fin.1.a:0 "Hopelessly. We recognize the Senate."
+ rusrevolt.fin.1.b:0 "Long live Red Finland!"
+ 
+ rusrevolt.fin.2.t:0 "Civil War in Finland"
+ rusrevolt.fin.2.d:0 "The situation has heated up to the limit. With the support of the Soviet government of Russia, the rebels raised an uprising. General Karl Mannerheim took responsibility for the suppression of the uprising. The Finnish Council of People's Commissioners is unlikely to make concessions, and therefore this Civil War will drag on for a long time."
+ rusrevolt.fin.2.a:0 "We will crush the Reds!"
+ rusrevolt.fin.2.b:0 "Forward, Red Suomi!"
+ 
+ rusrevolt.fin.2.t:0 "Civil War in Finland"
+ rusrevolt.fin.2.d:0 "Finland was engulfed by the Civil War between the government of the Senate and the insurgent Council of People's Commissioners of Finland. Having obtained its independence and sovereignty during the Brest Peace, Finland enlisted the support of Germany, but the consequences of the revolution did not bypass the already shaky position of the nation. Although the white Finns did not occupy the most advantageous position, having lost the production region in the south, the Red Suomi could not long without the support of Soviet Russia and the sympathizing revolution."
+ rusrevolt.fin.2.a:0 "How long will this confrontation last?"
+ 
+ 

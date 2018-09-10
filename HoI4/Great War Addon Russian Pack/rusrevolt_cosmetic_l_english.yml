@@ -1,0 +1,10 @@
+﻿l_english:
+ SOV_FEDERATION_democratic:0 "Socialist Federation"
+ SOV_FEDERATION_fascism:0 "Tsardom of Russia"
+ SOV_FEDERATION_communism:0 "Soviet Federation"
+ SOV_FEDERATION_neutrality:0 "Russia"
+ SOV_UNION_communism:0 "Soviet Union"
+ SOV_UNION_fascism:0 "Second Russian Empire"
+ SOV_UNION_democratic:0 "Russian Federation"
+ SOV_UNION_neutrality:0 "Russia"
+ 
