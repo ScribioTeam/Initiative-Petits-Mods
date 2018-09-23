@@ -9,7 +9,8 @@ EVTOPTD_CHI_209;No interesting target.;;;;;;;;;;;;;x
 EVTDESC_CHI_401;You contact the [From.GetSocietyRank] to tell him of your plan to offer some of your lands to the order.\nHe agree to offer more men to support you against infidels and to give you a portion of the income they receive from tithe and banking in the province.;;;;;;;;;;;;;x
 EVTOPTA_CHI_401;This site should be appropriate.;;;;;;;;;;;;;x
 EVTOPTB_CHI_401;It will be expensive to renovate, but these ruins should do.;;;;;;;;;;;;;x
-EVTOPTC_CHI_401;I've changed my mind.;;;;;;;;;;;;;x
+EVTOPTC_CHI_401;That old castle will make for a suitable holy stronghold.;;;;;;;;;;;;;x
+EVTOPTD_CHI_401;I've changed my mind.;;;;;;;;;;;;;x
 EVTDESC_CHI_402;The Holy Order have finished moving the chapter elsewhere as they are no longer in control of the castle they once built here.;;;;;;;;;;;;;x
 EVTOPTA_CHI_402;It was only a matter of time.;;;;;;;;;;;;;x
 
@@ -17,11 +18,13 @@ chivalry_power_take_bounty;The Bounty Board;;;;;;;;;;;;;x
 chivalry_power_take_bounty_desc;Attempt to find a target in the realm to hunt for money.;;;;;;;;;;;;;x
 chivalry_power_take_bounty_power_desc;§PIntrigue Decision§! Look at some of the bounties available in the realm, if there is any. Hunting them will earn you Ducats¤, Prestige and §Y[From.GetSocietyCurrency]§!.;;;;;;;;;;;;;x
 chivalry_power_holy_castle;Offer land to [From.Society.GetName];;;;;;;;;;;;;x
-chivalry_power_holy_castle_desc;You will contact the Grand Master of the [From.Society.GetName] to give them land upon which they may build a castle. It won't be under your own jurisdiction but they will offer you support when you request men from the order or if you are being besieged.;;;;;;;;;;;;;x
+chivalry_power_holy_castle_desc;You will contact the Grand Master of the [From.Society.GetName] to give them land upon which they may build a castle. It won't be under your own jurisdiction but they will offer you support when you request men from the order or if you are being besieged.\nTo give one of your own castle, use the decision available from the province where it is located.;;;;;;;;;;;;;x
 chivalry_power_holy_castle_power_desc;§PIntrigue Decision§! Allow you to spend §Y[From.GetSocietyCurrency]§! and perhaps Ducats¤ to give some land to [From.Society.GetName]. It will bolster the province and allow them to send more men when you request it.;;;;;;;;;;;;;x
 chivalry_allow_holy_castle_tooltip;No empty holding but have room to create more.;;;;;;;;;;;;;x
 chivalry_no_holy_castle_tooltip;Any province have no holy order castle.;;;;;;;;;;;;;x
 chivalry_start_holy_castle_tooltip;Contact the Grand Master.;;;;;;;;;;;;;x
+chivalry_power_holy_castle_province;Offer land to [From.Society.GetName];;;;;;;;;;;;;x
+chivalry_power_holy_castle_province_desc;You will contact the Grand Master of the [From.Society.GetName] to give them land upon which they may build a castle or offer them one of yours in this province. It won't be under your own jurisdiction but they will offer you support when you request men from the order or if you are being besieged.;;;;;;;;;;;;;x
 chivalry_power_army_fighter;Raise an Army;;;;;;;;;;;;;x
 chivalry_power_army_fighter_desc;Use your glorious deeds to rouse up the peasantry in your demesne to follow your banner, alongside anybody fighting in tournaments.\nThese armies will disband if you are not war.;;;;;;;;;;;;;x
 chivalry_power_army_fighter_power_desc;§PIntrigue Decision§! Spend §Y[From.GetSocietyCurrency]§! to create an army in your capital, every tournaments you have created in your demesne will spawn additional troops.;;;;;;;;;;;;;x
@@ -38,6 +41,10 @@ chivalry_holy_castle_desc;This province contain a Holy Order enclave which will 
 
 
 # V replace correcty
+EVTOPTC_CHI_3101;*Skip the Duel*;;;;;;;;;;;;;x
+EVTOPTB_CHI_3102;*Skip the Duel*;;;;;;;;;;;;;x
+chivalry_duel_skip;You will ignore the duel system and the result will be random based on your combat skill and traits.;;;;;;;;;;;;;x
+
 EVTOPTD_CHI_3732;Trade half of the ducats for boats.;;;;;;;;;;;;;x
 EVTOPTD_CHI_3735;Trade half of the ducats for boats.;;;;;;;;;;;;;x
 

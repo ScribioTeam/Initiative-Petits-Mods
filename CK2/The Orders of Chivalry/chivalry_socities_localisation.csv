@@ -1653,7 +1653,7 @@ EVTDESC_CHI_332;You leave your realm in the hand of your capable regent and left
 EVTOPTA_CHI_332;To adventure!;;;;;;;;;;;;;;x
 EVTDESC_CHI_3321;Your journey has come to an end. It was not easy and you have faced several challenges that gave you experience, scars and skills. Such pilgrimages do not come often and perhaps you will find the opportunity to go forth again. But now is the time to rest.;;;;;;;;;;;;;;x
 EVTOPTA_CHI_3321;I am home.;;;;;;;;;;;;;;x
-EVTDESC_CHI_333;You leave your realm in the hand of your capable regent and left on a grand warrior pilgrimage in order to refine your skills as a warrior and to learn more about the faith and [Root.Religion.GetName]]. It will be a dangerous journey and you may not finish it unscathed, but you will return a [Root.GetManWoman] changed, stronger or maimed.;;;;;;;;;;;;;;x
+EVTDESC_CHI_333;You leave your realm in the hand of your capable regent and left on a grand warrior pilgrimage in order to refine your skills as a warrior and to learn more about the faith and [Root.Religion.GetName]. It will be a dangerous journey and you may not finish it unscathed, but you will return a [Root.GetManWoman] changed, stronger or maimed.;;;;;;;;;;;;;;x
 EVTOPTA_CHI_333;May [Root.Religion.GetHighGodName] watch over me.;;;;;;;;;;;;;;x
 EVTDESC_CHI_3331;Your journey has come to an end. It was not easy and you have faced several challenges that gave you experience, scars and skills. Such pilgrimages do not come often and perhaps you will find the opportunity to go forth again. But now is the time to rest.;;;;;;;;;;;;;;x
 EVTOPTA_CHI_3331;I am home.;;;;;;;;;;;;;;x
