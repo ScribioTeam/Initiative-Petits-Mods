@@ -245,6 +245,8 @@ guilds_trader_master_cash;¤Demand Money¤;;;;;;;;;;;;;x
 guilds_trader_master_cash_desc;Demand your Trade Master to give you 100 ¤.;;;;;;;;;;;;;x
 guilds_trader_master_give;¤Give all Goods¤;;;;;;;;;;;;;x
 guilds_trader_master_give_desc;Give all of your goods to your Trade Master.;;;;;;;;;;;;;x
+guilds_trader_master_stop;¤Toggle Funds Requests¤;;;;;;;;;;;;;x
+guilds_trader_master_stop_desc;Allow or prevent your Trader Master from asking for funds.;;;;;;;;;;;;;x
 guilds_unhappy_trade_master;Your Trade Master is unhappy. If you take more funds from him, you will have to face the consequences.;;;;;;;;;;;;;x
 guilds_center_trade;Center of Trade;;;;;;;;;;;;;x
 guilds_center_trade_desc;This town has a prosperous trade market organized by the Trade League.\nIt provide the owner with free goods and shipments every year.;;;;;;;;;;;;;x
@@ -856,6 +858,8 @@ EVTOPTA_SNW_265;Very well.;;;;;;;;;;;;;x
 EVTDESC_SNW_2610;My liege, the economy of the realm may be poor, but I must humbly request some funds for trading.;;;;;;;;;;;;;x
 EVTOPTA_SNW_2610;Give [From.GetHerHim] funds.;;;;;;;;;;;;;x
 EVTOPTB_SNW_2610;I have nothing for you today.;;;;;;;;;;;;;x
+EVTOPTC_SNW_2610;Stop bothering me!;;;;;;;;;;;;;x
+guilds_trade_master_stop_tt;Your current trade master won't ask for funds anymore.\nUse the character decision toggle to enable it again.;;;;;;;;;;;;;x
 EVTDESC_SNW_2611;My liege, the ever improving economy of the realm makes goods more expensive. I must humbly request some more funds for trading.;;;;;;;;;;;;;x
 EVTOPTA_SNW_2611;Give [From.GetHerHim] funds.;;;;;;;;;;;;;x
 EVTOPTB_SNW_2611;I have nothing for you today.;;;;;;;;;;;;;x
